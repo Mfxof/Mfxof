@@ -1,5 +1,7 @@
 ### 👨‍💻 Développeur Passionné 👾
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 Depuis ma jeunesse, je suis passionné par l'informatique et le développement. Je consacre mes heures libres à créer des jeux 🎮 et à explorer le monde passionnant du développement d'applications 📱 et de sites web 🌐.
 
 ### 🚀 Compétences 🛠️
