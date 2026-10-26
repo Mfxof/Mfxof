@@ -1,25 +1,25 @@
-### 👨‍💻 Développeur Passionné 👾
+👨‍💻 Développeur, passionné d’informatique et de création
 
-Depuis ma jeunesse, je suis passionné par l'informatique et le développement. Je consacre mes heures libres à créer des jeux 🎮 et à explorer le monde passionnant du développement d'applications 📱 et de sites web 🌐.
+L’informatique fait partie de ma vie depuis longtemps. J’aime comprendre comment les choses fonctionnent, tester des idées et leur donner forme à travers des jeux, des applications ou des sites web.
 
-### 🚀 Compétences 🛠️
-Langages de programmation avancé : JavaScript, Python, C#, HTML, CSS, PHP, SQL.
-Langages de programmation intermédiaire : Java, WinDev, VBA, arduino, XML, C++, CMS (BD), WordPress.
-Bureautique (Pack Office | Libre Office) Montages et réparation d’ordinateur/ console.
-Administration réseau (Configuration routeur/Switch/Pare feu/Serveur) Modélisation 3d (Blender, Pro Builder) Montage photo/vidéo (Photoshop / Adobe Illustrator) Analyse de donnés / PIA Conception et développement d'applications et de jeux (Unity) Cycle de développement complet, de la conception à la mise en ligne Créativité et innovation dans la technologie.
+Je développe aussi des jeux indépendants sur mon temps libre, dont plusieurs ont déjà été publiés. Ces projets m’ont appris à suivre une idée de la conception jusqu’à sa sortie, à résoudre les problèmes rencontrés et à améliorer mon travail au fil des retours.
 
-### 🎯 Objectif 🌟
-Mon objectif principal est de créer des expériences ludiques et engageantes pour les joueurs, en repoussant constamment les limites de la créativité et de la technologie.
+🛠️ Mes compétences
 
-### 💼 Expérience 💡
-En tant que développeur de jeux indépendant, j'ai déjà publié plusieurs jeux, ce qui m'a permis d'acquérir une expérience précieuse dans le domaine.
+• Développement : JavaScript, Python, C#, HTML, CSS, PHP et SQL.
+• Autres technologies pratiquées : Java, C++, VBA, WinDev, Arduino, XML et WordPress.
+• Création de jeux et d’applications avec Unity.
+• Analyse de données.
+• Administration réseau : configuration de routeurs, switches, pare-feu et serveurs.
+• Montage et réparation d’ordinateurs et de consoles.
+• Modélisation 3D avec Blender et ProBuilder.
+• Création et retouche visuelle avec Photoshop et Adobe Illustrator.
+• Utilisation de Microsoft Office et LibreOffice.
 
-### 🌟 Passion et Engagement 🔥
+🎯 Ce qui me motive
 
-Ma passion pour la technologie et mon engagement envers l'excellence font de moi un développeur dévoué, toujours à la recherche de nouvelles opportunités passionnantes.
+J’aime créer des projets qui servent à quelque chose, qu’il s’agisse de proposer une expérience de jeu, de simplifier une tâche ou de rendre une information plus accessible. Ce qui me plaît dans le développement, c’est de pouvoir associer logique et créativité, tout en apprenant à chaque projet.
 
-### 🤝 Collaboration 🤖
+🤝 Échangeons
 
-Je suis ouvert à de nouvelles collaborations passionnantes dans le domaine du développement de jeux, d'applications ou de sites web. N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mon travail ou si vous êtes intéressé par une collaboration.
-
-***Let's create something amazing together !*** 🚀✨
+Je suis ouvert aux échanges et aux collaborations autour du développement de jeux, d’applications ou de sites web. Si vous avez un projet en tête ou souhaitez discuter de mon travail, n’hésitez pas à me contacter.
